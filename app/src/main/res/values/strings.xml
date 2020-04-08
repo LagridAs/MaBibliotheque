@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ma Bibliothèque</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="titre1">L appel de la foret</string>
+    <string name="titre2">Des fleurs pour Algernon</string>
+    <string name="titre3">Le Maitre des illusions</string>
+    <string name="titre4">De sang froid</string>
+    <string name="titre5">Guerre et paix</string>
+    <string name="titre6">Un Barrage contre le Pacifique</string>
+
+
+    <string name="auteur1">Jack London</string>
+    <string name="auteur2">Daniel Keyes</string>
+    <string name="auteur3">Daniel Keyes</string>
+    <string name="auteur4">Truman Capote</string>
+    <string name="auteur5">Leon Tolstoi</string>
+    <string name="auteur6">Marguerite Duras</string>
+
+    <string name="resume1">Derobe a ses maitres pour etre vendu a des chercheurs d or du Klondike, Buck devient chien de traineau et fait l apprentissage du froid, de la brutalite impitoyable, de la douleur... jusqu a ce que, un jour, retentisse l appel de la foret. A partir de la, plus rien ne le relie aux hommes...Le grand classique de la vie sauvage et de la ruee vers l or. A partir de 11 ans</string>
+    <string name="resume2">Algernon est une souris dont le traitement du Pr Nemur et du Dr Strauss vient de decupler l intelligence. Enhardis par cette reussite, les savants tentent, avec l assistance de la psychologue Alice Kinnian, d appliquer leur decouverte a Charlie Gordon, un simple d esprit. C est bientot l extraordinaire eveil de l intelligence pour le jeune homme. Il decouvre un monde dont il avait toujours ete exclu, et l amour qui nait entre Alice et lui acheve de le metamorphoser. Mais un jour, les facultes superieures d Algernon commencent a decliner... Cette edition augmentee contient, en plus du roman, la nouvelle originale «Des fleurs pour Algernon», ainsi que l essai autobiographique Algernon, Charlie et moi.</string>
+    <string name="resume3">Richard obtient une bourse pour des etudes de lettres classiques dans une universite du Vermont. Il se lie avec un cercle tres ferme d étudiants de la haute societe a la reputation sulfureuse. Un roman noir ou il est question de secrets, de meurtres, de drogues... Une veritable descente aux enfers ou l eudition, l amour des lettres et la beaute cotoient habilement la nature cruelle de l homme.</string>
+    <string name="resume4">Ce roman culte est une plongee dans une petite ville du Kansas, cadre d un fait divers qui a bouleverse le pays. Les quatre membres d une famille ont ete assassines dans leur maison par deux voleurs. Apres avoir rencontre tous les protagonistes (temoins, policiers et meurtriers), Truman Capote retrace cette histoire avec distance et minutie, du meurtre a l execution des coupables.</string>
+    <string name="resume5">C est a la fois un roman historique, plusieurs histoires d amour, des sagas familiales et une reflexion de Leon Tolstoi sur la societe de son temps. L eveil a l amour de Natacha, les errances de Pierre, les deceptions du Prince Andre, l histoire de ces grandes familles de l aristocratie russe se fondent dans le tourbillon de la grande histoire et des campagnes napoleoniennes.</string>
+    <string name="resume6">La veuve d un fonctionnaire colonial vit sur une parcelle de terre en Indochine, totalement impropre a la culture car regulierement envahie par les marees. Seule avec ses deux enfants qui ne revent que de s evader de ce trou perdu, elle lutte a la fois contre l administration et contre les elements. Une histoire en partie autobiographique de l auteure de L Amant.</string>
+    <string name="livres">Tous les livres</string>
+</resources>
