@@ -3,4 +3,11 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="blue">#5F7D95</color>
+    <color name="jaune">#FFCB2D</color>
+    <color name="orange">#FF9E2D</color>
+    <color name="blue_sambre">#12263E</color>
+
+
+
 </resources>
